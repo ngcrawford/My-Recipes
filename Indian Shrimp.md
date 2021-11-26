@@ -1,0 +1,14 @@
+- veg oil
+- 1 onion
+- 1 bunch spring onions
+- garlic
+- 1-2 green chilies
+- ginger
+- tumeric
+- cumin
+- ground coriander
+- curry powder / paste
+- 14 oz can chopped tomato
+- heavy cream
+- 1 lb shrimp
+- fresh coriander
