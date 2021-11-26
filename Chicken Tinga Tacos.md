@@ -1,3 +1,6 @@
+Recipe is based notes from Reub. Tinga is modified from [this][2] Food Wishes Video. 
+
+
 ## Chicken Tinga
 
 - [ ] 2 large packages of boneless|skinless chicken thighs
@@ -9,7 +12,7 @@
 - [ ] 4 oz can of chipotle peppers
 - [ ] 32 oz container of chicken stock
 
-Recipe is based on [this][2] Food Wishes Video. 
+
 1. Heat oil in large pot. Add chicken and lightly brown on all sides. Reserve chicken in seperate bowl.
 2. Coarsely chop or slice onion and garlic. Add to pot and sauté until softened. Optionally include jalapeno (sliced).
 3. Return chicken to pot. Add diced tomatoes, entire can of chipotle peppers!, and enough chicken stock to cover the meat. I used about half the container. 
