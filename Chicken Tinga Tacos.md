@@ -1,5 +1,6 @@
-Recipe is based notes from Reub. Tinga is modified from [this][2] Food Wishes Video. 
+# Chicken Tinga Tacos
 
+Recipe is based notes from Reub K. Tinga is modified from [this][2] Food Wishes Video. 
 
 ## Chicken Tinga
 
@@ -11,7 +12,6 @@ Recipe is based notes from Reub. Tinga is modified from [this][2] Food Wishes Vi
 - [ ] 15 oz can of diced tomatoes
 - [ ] 4 oz can of chipotle peppers
 - [ ] 32 oz container of chicken stock
-
 
 1. Heat oil in large pot. Add chicken and lightly brown on all sides. Reserve chicken in seperate bowl.
 2. Coarsely chop or slice onion and garlic. Add to pot and sauté until softened. Optionally include jalapeno (sliced).
